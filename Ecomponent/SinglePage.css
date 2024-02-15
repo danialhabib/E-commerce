@@ -1,0 +1,28 @@
+.Delivery{
+    height: 6rem;
+}
+
+.logos{
+    width: 3rem;
+    border-radius: 50%;
+    margin-left: 1.3rem;
+    background:  #EFEBE9;;
+}
+
+
+.logo{
+    font-size: 2rem;
+}
+
+.fontSize{
+    font-size: 0.8rem;
+}
+
+.borderDown{
+    border-bottom: 2px solid black;
+}
+
+.marginBottom{
+    background: red;
+   
+}

@@ -1,0 +1,93 @@
+.searchItem{
+   width: 80%;
+   height: 3rem;
+   border-radius: 50px; 
+   padding-left: 3rem;
+   font-size: 1.3rem;
+   border: 2px solid black;
+   
+}
+
+.mySearch{
+   position: relative;
+}
+
+.searchIcon{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.searchIcon{
+   font-size: 2rem;
+   margin-top: 0.8rem;
+   margin-left: 15%; 
+  
+}
+
+.categoryBtn{
+   background-color:white;
+   color:black;
+   font-weight: bold;
+   border: none;
+   font-size:1.5rem;
+}
+
+.filterBackground{
+  background: white;
+}
+
+.categoryBtn:hover{
+   border-bottom: 3px solid  rgb(219, 10, 219);
+}
+
+.companyForm .companySelect{
+   border: none;
+  outline: none;
+  font-size: 1.5rem;
+  border: 2px solid black;
+}
+
+.colorBtn{
+   border-radius: 50%;
+   width: 1.9rem;
+   height: 1.9rem;
+  margin-left: 0.4rem;
+}
+
+
+
+.colorsactive{
+   opacity: 0.5;
+}
+
+.AllBtn{
+   width: 4rem;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.rangeInput{
+   font-size: 3rem;
+}
+
+.checkIcon{
+   color: white;
+}
+
+.clearFilterBtn{
+   outline: none;
+   border:none;
+   color: white
+}
+
+
+@media (max-width:1000px) {
+   .searchIcon{
+      margin-left:14%;
+      
+     
+   }
+}
+
+

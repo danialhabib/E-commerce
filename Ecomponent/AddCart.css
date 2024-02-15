@@ -1,0 +1,52 @@
+.colorBtn{
+   outline: none;
+}
+
+.colorActive{
+    opacity: 0.5;
+}
+
+.minusLogo{
+    font-size: 2rem;
+}
+
+.minusLogo:hover{
+    color: red;
+}
+
+
+.plusLogo{
+    font-size: 2rem;
+}
+
+.plusLogo:hover{
+  color: green;
+}
+
+.colorBtn{
+    border-radius: 50%;
+    width: 1.9rem;
+    height: 1.9rem;
+   margin-left: 0.4rem;
+ }
+
+@media (max-width:900px) {
+  /*  .cartBtn{
+       margin-left: 13.6rem;
+    } 
+
+    .minusLogo{
+        margin-left: 12rem;
+    }
+
+    .plusLogo{
+        margin-right: 12rem;
+    } */
+    
+}
+
+
+
+
+
+

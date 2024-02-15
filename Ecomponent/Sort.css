@@ -1,0 +1,28 @@
+.myBackground{
+    background: #EFEBE9;
+    box-shadow: 0px 0px 10px grey;
+}
+
+.mySelectBox{
+   font-size: 1.3rem;
+   width: 100%;
+   height: 2.3rem;
+   padding-left:0.5rem;
+   font-weight: bold;
+   outline: none;
+   box-shadow: 0px 0px 3px grey;
+   border: 2px solid black;
+   background: #EFEBE9;;
+
+}
+
+.mySelectBox option{
+    font-weight: bold;
+    background: black;
+    color: white;
+    font-size: 1rem;
+}
+
+.mySelectBox option::selection{
+    background: black;
+}

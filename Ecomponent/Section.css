@@ -1,0 +1,30 @@
+ .shades{
+   background: #163E42;
+ }
+ 
+ 
+ .StoreDetail{
+    text-align: center;
+    padding: 1rem;
+}
+
+img{
+    width: 100%;
+    border-radius: 50px;
+}
+
+.mybackground{
+   background:#C6D3D9
+}
+
+
+@media (max-width:995px) {
+    
+ img{
+    width: 100%;
+   
+ }
+ .position{
+    margin-left:3.7rem;
+ }
+}

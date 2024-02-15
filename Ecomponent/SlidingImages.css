@@ -1,0 +1,22 @@
+.SlideImage{
+    border-radius: 1px;
+    overflow-x: hidden;
+    height: 30rem;
+
+}
+
+.Maincontainer{
+    height: 30rem;
+    position: relative; 
+}
+
+body{
+    overflow-y: hidden;
+}
+
+.slideBtn{
+    position: absolute;
+    bottom: 12rem;
+} 
+
+

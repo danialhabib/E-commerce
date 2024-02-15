@@ -1,0 +1,25 @@
+@media (max-width:900px){
+  
+    .PriceVal{
+        display: none;
+    }
+
+    .subTotal{
+        display: none;
+    }
+
+
+}
+
+.itemName{
+    border-bottom: 2px solid black;
+}
+
+.shippingBottomBorder{
+    border-bottom: 2px solid black;
+}
+
+.shippingTotal{
+    background:#E4DEDE
+}
+

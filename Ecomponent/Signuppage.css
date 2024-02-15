@@ -1,0 +1,39 @@
+.signupPage{
+    background:white;
+}
+
+.signupPage form input{
+    border-radius: 50px;
+    width: 20rem;
+    height: 3rem;
+    background: #E4DEDE;
+    box-shadow: 0px 0px 5px grey;
+    border-bottom: 2px solid black;
+}
+
+.signupPage form button{
+    background-color:#f1890a;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    box-shadow: 0px 0px 5px #fa8c05;
+   
+}
+
+.signupPage{
+    box-shadow: 0px 0px 5px white;
+}
+
+.bgdark{
+   
+    z-index: 0;
+    background-image: url(../Ecomponent/Images/pexels-johannes-plenio-1103970.jpg);
+    height: 33rem;
+}
+
+.loginPage{
+    z-index: 1;
+    background: transparent;
+}
+
+
